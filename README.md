@@ -1,4 +1,4 @@
-# Writing good documentation
+ # Writing good :cloud: documentation
 
 ## Step 1 - Using Codeblocks
 
@@ -23,7 +23,32 @@ NameError: name 'x' is not defined
 ```
 > This is an example of an eror that appears in bash
 
-## References
-- [Github Flavor Markdown Specificaitons](https://github.github.com/gfm/)
-- [Github Flavored Markdown Basic Writing and Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Step 3 - Use GitHub flavored markdown task lists
+
+Github extends markdown to have a check list :thumbsup:<sup>[3]</sup>
+- [x] Finish Step 1
+- [ ] Finish Step 2
+- [x] Finish Step 3
+
+## Step 4 - Emojis
+
+| Name | Shortcode | Emoji |
+| --- | --- | --- | 
+| Computer | `:cloud:` | :cloud: |
+| Cloud | `:computer:` | :computer: |
+
+## Step 5 - Creating a markdown table [<sup>4</sup>](#external-references)
+Here's the markdown for the preceding emoji table:
+```md
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Computer | `:cloud:` | :cloud: |
+| Cloud | `:computer:` | :computer: |
+```
+Github also extends markdown tables with addition alignment and cell formatting options.
+## External References
+- [Github Flavor Markdown Specificaitons](https://github.github.com/gfm/) <sup>[1]</sup>
+- [Github Flavored Markdown Basic Writing and Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup>[2]</sup>
+- [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[3]</sup>
+ - [GFM Tables (With Extension)](https://github.github.com/gfm/#tables-extension-)<sup>[4]</sup>
 
