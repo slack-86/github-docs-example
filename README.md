@@ -14,4 +14,4 @@ Highlight syntax by adding the language behind the back ticks
 print("Hello, World!")
 ```
 
-![backtick key](https://github.com/slack-86/github-docs-example/blob/main/Image.jpeg)
+![backtick key](https://github.com/slack-86/github-docs-example/blob/0bd9c47f190101aca20cd8f2623971010423a2b2/assets/Image.jpeg)
