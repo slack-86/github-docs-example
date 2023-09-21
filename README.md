@@ -1,4 +1,4 @@
- # Writing good :cloud: documentation [^1] [^2]
+ # Writing good :cloud: documentation [^1] - [^2]
 
 ## Step 1 - Using Codeblocks
 
