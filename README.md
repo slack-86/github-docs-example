@@ -37,7 +37,7 @@ Github extends markdown to have a check list :thumbsup:[<sup>[1]</sup>](#externa
 | Computer | `:cloud:` | :cloud: |
 | Cloud | `:computer:` | :computer: |
 
-## Step 5 - Creating a markdown table [<sup>2</sup>](#external-references)
+## Step 5 - Creating a markdown table [^2]
 Here's the markdown for the preceding emoji table:
 ```md
 | Name | Shortcode | Emoji |
@@ -50,5 +50,5 @@ Github also extends markdown tables with addition alignment and cell formatting 
 - [Github Flavor Markdown Specificaitons](https://github.github.com/gfm/)
 - [GFM Basic Writing and Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
- - [GFM Tables (With Extension)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
+[^2]: [GFM Tables (With Extension)](https://github.github.com/gfm/#tables-extension-)
 
