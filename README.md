@@ -1,6 +1,6 @@
- # Writing good :cloud: documentation [^1] - [^2]
+ # Writing good :cloud: documentation [^1]
 
-## Step 1 - Using Codeblocks
+## Step 1 - Using Codeblocks [^2]
 
 A *good* **cloud engineer** uses codeblocks whenever possible because it allows others to copy and paste their code to replicate or research issues. 
 
