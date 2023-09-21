@@ -46,9 +46,13 @@ Here's the markdown for the preceding emoji table:
 | Cloud | `:computer:` | :computer: |
 ```
 Github also extends markdown tables with addition alignment and cell formatting options.
+
+## Bonus
+[Secret Windows in Hidden Gardens](secret-window/hidden-garden.md)
 ## External References
 [^1]: [Github Flavor Markdown Specificaitons](https://github.github.com/gfm/)
 [^2]: [GFM Basic Writing and Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^3]: [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) 
 [^4]: [GFM Tables (With Extension)](https://github.github.com/gfm/#tables-extension-)
+
 
