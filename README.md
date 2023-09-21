@@ -1,4 +1,4 @@
- # Writing good :cloud: documentation
+ # Writing good :cloud: documentation [^1][^2]
 
 ## Step 1 - Using Codeblocks
 
@@ -37,7 +37,7 @@ Github extends markdown to have a check list :thumbsup:[^1]
 | Computer | `:cloud:` | :cloud: |
 | Cloud | `:computer:` | :computer: |
 
-## Step 5 - Creating a markdown table [^2]
+## Step 5 - Creating a markdown table [^4]
 Here's the markdown for the preceding emoji table:
 ```md
 | Name | Shortcode | Emoji |
@@ -47,8 +47,8 @@ Here's the markdown for the preceding emoji table:
 ```
 Github also extends markdown tables with addition alignment and cell formatting options.
 ## External References
-- [Github Flavor Markdown Specificaitons](https://github.github.com/gfm/)
-- [GFM Basic Writing and Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^1]: [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) 
-[^2]: [GFM Tables (With Extension)](https://github.github.com/gfm/#tables-extension-)
+[^1]: [Github Flavor Markdown Specificaitons](https://github.github.com/gfm/)
+[^2]: [GFM Basic Writing and Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) 
+[^4]: [GFM Tables (With Extension)](https://github.github.com/gfm/#tables-extension-)
 
