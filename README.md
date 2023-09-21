@@ -1,4 +1,4 @@
- # Writing good :cloud: documentation [^1][^2]
+ # Writing good :cloud: documentation [^1] [^2]
 
 ## Step 1 - Using Codeblocks
 
@@ -25,7 +25,7 @@ NameError: name 'x' is not defined
 
 ## Step 3 - Use GitHub flavored markdown task lists
 
-Github extends markdown to have a check list :thumbsup:[^1]
+Github extends markdown to have a check list :thumbsup:[^3]
 - [x] Finish Step 1
 - [ ] Finish Step 2
 - [x] Finish Step 3
