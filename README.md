@@ -25,7 +25,7 @@ NameError: name 'x' is not defined
 
 ## Step 3 - Use GitHub flavored markdown task lists
 
-Github extends markdown to have a check list :thumbsup:<sup>[3]</sup>
+Github extends markdown to have a check list :thumbsup:[<sup>[1]</sup>](#external-references)
 - [x] Finish Step 1
 - [ ] Finish Step 2
 - [x] Finish Step 3
@@ -37,7 +37,7 @@ Github extends markdown to have a check list :thumbsup:<sup>[3]</sup>
 | Computer | `:cloud:` | :cloud: |
 | Cloud | `:computer:` | :computer: |
 
-## Step 5 - Creating a markdown table [<sup>4</sup>](#external-references)
+## Step 5 - Creating a markdown table [<sup>2</sup>](#external-references)
 Here's the markdown for the preceding emoji table:
 ```md
 | Name | Shortcode | Emoji |
@@ -47,8 +47,8 @@ Here's the markdown for the preceding emoji table:
 ```
 Github also extends markdown tables with addition alignment and cell formatting options.
 ## External References
-- [Github Flavor Markdown Specificaitons](https://github.github.com/gfm/) <sup>[1]</sup>
-- [Github Flavored Markdown Basic Writing and Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup>[2]</sup>
-- [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[3]</sup>
- - [GFM Tables (With Extension)](https://github.github.com/gfm/#tables-extension-)<sup>[4]</sup>
+- [Github Flavor Markdown Specificaitons](https://github.github.com/gfm/)
+- [GFM Basic Writing and Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
+ - [GFM Tables (With Extension)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
 
