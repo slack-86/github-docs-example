@@ -25,7 +25,7 @@ NameError: name 'x' is not defined
 
 ## Step 3 - Use GitHub flavored markdown task lists
 
-Github extends markdown to have a check list :thumbsup:[<sup>[1]</sup>](#external-references)
+Github extends markdown to have a check list :thumbsup:[^1]
 - [x] Finish Step 1
 - [ ] Finish Step 2
 - [x] Finish Step 3
@@ -49,6 +49,6 @@ Github also extends markdown tables with addition alignment and cell formatting 
 ## External References
 - [Github Flavor Markdown Specificaitons](https://github.github.com/gfm/)
 - [GFM Basic Writing and Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
+[^1]: [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) 
 [^2]: [GFM Tables (With Extension)](https://github.github.com/gfm/#tables-extension-)
 
